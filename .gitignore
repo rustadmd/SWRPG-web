@@ -1,0 +1,10 @@
+## Ignore Aptana Items ##
+.project
+
+## Ignore Vagrant Items ##
+.vagrant
+Vagrantfile
+cookbooks
+
+## Ignore installed extensions ##
+node_modules
