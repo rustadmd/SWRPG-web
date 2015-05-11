@@ -5,6 +5,3 @@
 .vagrant
 Vagrantfile
 cookbooks
-
-## Ignore installed extensions ##
-node_modules
